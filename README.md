@@ -41,3 +41,33 @@
 ### Return Keyword
 
 - [returnkey.c](/fundamentals/returnkey.c)
+
+
+### Variable Scope
+
+- [varscope.c](/fundamentals/varscope.c)
+
+### Function Prototypes
+
+- [funcprtypes.c](/fundamentals/funcprtypes.c)
+
+### While Loops
+
+- [whileloops.c](/fundamentals/whileloops.c)
+
+### For Loops
+
+- [forloops.c](/fundamentals/forloops.c)
+
+### Break and Continue
+
+- [breakkey.c](/fundamentals/breakkey.c)
+
+### Nested Loops
+
+- [nestedloops.c](/fundamentals/nestedloops.c)
+
+### Random Numbers
+
+- [randomnums.c](/fundamentals/randomnums.c)
+

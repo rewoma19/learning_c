@@ -42,7 +42,6 @@
 
 - [returnkey.c](/fundamentals/returnkey.c)
 
-
 ### Variable Scope
 
 - [varscope.c](/fundamentals/varscope.c)
@@ -71,3 +70,18 @@
 
 - [randomnums.c](/fundamentals/randomnums.c)
 
+### Arrays
+
+- [myarrays.c](/fundamentals/myarrays.c)
+
+### Arrays and User Input
+
+- [arrayinput.c](/fundamentals/arrayinput.c)
+
+### 2D Arrays
+
+- [arrays2d.c](/fundamentals/arrays2d.c)
+
+### Arrays of Strings
+
+- [arraysstrings.c](/fundamentals/arraysstrings.c)

@@ -85,3 +85,23 @@
 ### Arrays of Strings
 
 - [arraysstrings.c](/fundamentals/arraysstrings.c)
+
+### Ternary Operator
+
+- [ternary.c](/fundamentals/ternary.c)
+
+### Typedef
+
+- [typedefinition.c](/fundamentals/typedefinition.c)
+
+### Enums
+
+- [myenums.c](/fundamentals/myenums.c)
+
+### Structs
+
+- [mystructs.c](/fundamentals/mystructs.c)
+
+### Array of Structs
+
+- [arrstructs.c](/fundamentals/arrstructs.c)

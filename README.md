@@ -105,3 +105,15 @@
 ### Array of Structs
 
 - [arrstructs.c](/fundamentals/arrstructs.c)
+
+### Pointers
+
+- [pointers.c](/fundamentals/pointers.c)
+
+### Write files
+
+- [main.c](/fundamentals/filewrite/main.c)
+
+### Read files
+
+- [main.c](/fundamentals/fileread/main.c)
